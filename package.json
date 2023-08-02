@@ -1,14 +1,14 @@
 {
   "name": "sveltekit-html-minifier",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sveltekit Adapter to Minify the preload HTML page",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ntsd/sveltekit-html-minifier.git"
   },
-  "author": "Jirawat Boonkumnerd <contact@ntsd.dev>",
+  "author": "Jirawat Boonkumnerd <contact@ntsd.dev> (https://ntsd.dev)",
   "license": "MIT",
   "keywords": [
     "sveltekit",
