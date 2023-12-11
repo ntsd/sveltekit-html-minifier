@@ -49,3 +49,10 @@ export default {
 
 - `pages` (string): Specifies the build path. This should be the same as the adapter static pages.
 - `minifierOptions` (object): Custom options for [html-minifier-terser](https://github.com/terser/html-minifier-terser#options-quick-reference).
+
+Example: for @sveltejs/adapter-cloudflare, you probably want to specify this modified build path:
+```js
+      {
+        pages: '.svelte-kit/cloudflare',
+      }
+```
