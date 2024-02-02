@@ -1,7 +1,7 @@
 {
   "name": "sveltekit-html-minifier",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sveltekit Adapter to Minify the preload HTML page",
   "main": "index.js",
   "repository": {
@@ -39,7 +39,7 @@
     "typescript": "^4.9.4"
   },
   "peerDependencies": {
-    "@sveltejs/kit": "^1.5.0"
+    "@sveltejs/kit": ">=1.5.0 <3.0.0"
   },
   "dependencies": {
     "html-minifier-terser": "^7.2.0"
