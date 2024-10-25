@@ -20,7 +20,6 @@ export default function (insideAdapter, options) {
           removeAttributeQuotes: true,
           minifyJS: true,
           minifyCSS: true,
-          collapseWhitespace: true,
           useShortDoctype: true,
           ...options?.minifierOptions,
         },
