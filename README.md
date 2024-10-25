@@ -1,5 +1,7 @@
 # Sveltekit HTML Minifier
 
+![NPM Version](https://img.shields.io/npm/v/sveltekit-html-minifier) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ntsd/sveltekit-html-minifier/test.yaml)
+
 Sveltekit Adapter to Minify the preload HTML page in case using CSR/Preload by [html-minifier-terser](https://github.com/terser/html-minifier-terser).
 
 > [!WARNING]  
